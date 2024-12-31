@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd66cbc3-db2b-4656-af85-2dba47911bde)# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
