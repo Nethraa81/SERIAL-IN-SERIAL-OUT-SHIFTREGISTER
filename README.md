@@ -1,4 +1,4 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+![image](https://github.com/user-attachments/assets/bd66cbc3-db2b-4656-af85-2dba47911bde)# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -73,7 +73,7 @@ endmodule
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![Screenshot 2024-12-29 170729](https://github.com/user-attachments/assets/fc89e2aa-2f7d-411d-86fe-fb57091b1c05)
+![Screenshot 2024-12-31 132143](https://github.com/user-attachments/assets/d4cfdb35-18c8-48c7-aa0d-42449e8ff575)
 
 **RESULTS**
 
